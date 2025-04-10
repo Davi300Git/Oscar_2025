@@ -1,0 +1,227 @@
+[
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Sean Baker",
+      "nome_do_filme": "Anora",
+      "vencedor": "true"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Brady Corbet",
+      "nome_do_filme": "O Brutalista",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "James Mangold",
+      "nome_do_filme": "Um Completo Desconhecido",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Jacques Audiard",
+      "nome_do_filme": "Emilia Pérez",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Denis Villeneuve",
+      "nome_do_filme": "Duna: Parte 2",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Walter Salles",
+      "nome_do_filme": "Ainda Estou Aqui",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Barry Jenkins",
+      "nome_do_filme": "Nickel Boys",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Coralie Fargeat",
+      "nome_do_filme": "A Substância",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_PICTURE",
+      "nome_do_indicado": "Jon M. Chu",
+      "nome_do_filme": "Wicked",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "Sean Baker",
+      "nome_do_filme": "Anora",
+      "vencedor": "true"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "Brady Corbet",
+      "nome_do_filme": "O Brutalista",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "James Mangold",
+      "nome_do_filme": "Um Completo Desconhecido",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "Jacques Audiard",
+      "nome_do_filme": "Emilia Pérez",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "Denis Villeneuve",
+      "nome_do_filme": "Duna: Parte 2",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_DIRECTOR",
+      "nome_do_indicado": "Coralie Fargeat",
+      "nome_do_filme": "A Substância",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTOR",
+      "nome_do_indicado": "Adrien Brody",
+      "nome_do_filme": "O Brutalista",
+      "vencedor": "true"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTOR",
+      "nome_do_indicado": "Timothée Chalamet",
+      "nome_do_filme": "Um Completo Desconhecido",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTOR",
+      "nome_do_indicado": "Colman Domingo",
+      "nome_do_filme": "Sing Sing",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTOR",
+      "nome_do_indicado": "Ralph Fiennes",
+      "nome_do_filme": "Conclave",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTOR",
+      "nome_do_indicado": "Sebastian Stan",
+      "nome_do_filme": "O Aprendiz",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTRESS",
+      "nome_do_indicado": "Cynthia Erivo",
+      "nome_do_filme": "Wicked",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTRESS",
+      "nome_do_indicado": "Karla Sofía Gascón",
+      "nome_do_filme": "Emilia Pérez",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTRESS",
+      "nome_do_indicado": "Mikey Madison",
+      "nome_do_filme": "Anora",
+      "vencedor": "true"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTRESS",
+      "nome_do_indicado": "Demi Moore",
+      "nome_do_filme": "A Substância",
+      "vencedor": "false"
+    },
+    {
+      "ano_filmagem": 2024,
+      "ano_cerimonia": 2025,
+      "cerimonia": 97,
+      "categoria": "BEST_ACTRESS",
+      "nome_do_indicado": "Fernanda Torres",
+      "nome_do_filme": "Ainda Estou Aqui",
+      "vencedor": "false"
+    }
+  ]
